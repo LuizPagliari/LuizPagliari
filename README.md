@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=luizpagliari&show_icons=true&theme=radical" />
   </a>
