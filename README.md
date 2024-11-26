@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=luizpagliari&label=Profile%20views&color=0e75b6&style=flat" alt="luizpagliari" /> 
 </p>
 
-- 🌱 I’m currently learning **Python, BI**
+- 🌱 I’m currently learning **Testes, Testes Automatizados, Ferramentas de Teste**
 - 📫 How to reach me **lgabrielpagliari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
