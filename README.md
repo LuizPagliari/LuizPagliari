@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Luiz Gabriel Pagliari Moreira</h1>
-<h3 align="left">A passionate BackEnd developer and Data Analyst from Brasil</h3>
+<h3 align="left">A passionate BackEnd developer and QA/Tester from Brasil</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=luizpagliari&label=Profile%20views&color=0e75b6&style=flat" alt="luizpagliari" /> 
